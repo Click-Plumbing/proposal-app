@@ -1,4 +1,14 @@
-Web application for a plumbing company to generate proposals and invoices with the following requirements:
+Web application for a plumbing company to generate proposals and invoices 
+
+
+Claud 3.5 says it has the following requirements...
+
+But with those requirements you'll get this:
+<img width="1025" alt="Screenshot 2025-03-02 at 11 27 13 PM" src="https://github.com/user-attachments/assets/a370c506-5836-4357-9b6a-811fd0b7028b" />
+
+While I built this:
+![screencapture-127-0-0-1-5004-2025-03-02-23_41_02](https://github.com/user-attachments/assets/495aa053-d141-4045-a1ac-07ea9a49eb1a)
+
 
 Core Features:
 1. Flask backend with a modern JavaScript frontend (no framework required)
